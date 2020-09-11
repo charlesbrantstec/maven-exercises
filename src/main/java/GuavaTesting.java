@@ -39,7 +39,6 @@ public class GuavaTesting {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter something");
         String userInput = scanner.next();
-        isNumeric
 
     }
 }
